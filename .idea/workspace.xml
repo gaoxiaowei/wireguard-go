@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c615ff5b-2658-49f1-a588-6b0347c7a7fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/device/bind_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/device/bind_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/device/device.go" beforeDir="false" afterPath="$PROJECT_DIR$/device/device.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/device/device_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/device/device_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/device/keypair.go" beforeDir="false" afterPath="$PROJECT_DIR$/device/keypair.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/device/noise-protocol.go" beforeDir="false" afterPath="$PROJECT_DIR$/device/noise-protocol.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/device/peer.go" beforeDir="false" afterPath="$PROJECT_DIR$/device/peer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/device/receive.go" beforeDir="false" afterPath="$PROJECT_DIR$/device/receive.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/device/sticky_default.go" beforeDir="false" afterPath="$PROJECT_DIR$/device/sticky_default.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/device/sticky_linux.go" beforeDir="false" afterPath="$PROJECT_DIR$/device/sticky_linux.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/device/tun.go" beforeDir="false" afterPath="$PROJECT_DIR$/device/tun.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/device/tun_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/device/tun_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/device/uapi.go" beforeDir="false" afterPath="$PROJECT_DIR$/device/uapi.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ipc/uapi_linux.go" beforeDir="false" afterPath="$PROJECT_DIR$/ipc/uapi_linux.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ipc/uapi_windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/ipc/uapi_windows.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/main_windows.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tun/tun_linux.go" beforeDir="false" afterPath="$PROJECT_DIR$/tun/tun_linux.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tun/tun_windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/tun/tun_windows.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tun/tuntest/tuntest.go" beforeDir="false" afterPath="$PROJECT_DIR$/tun/tuntest/tuntest.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tun/wintun/dll_fromrsrc_windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/tun/wintun/dll_fromrsrc_windows.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +29,29 @@
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="wireguard-go-gxw" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="github.com/gaoxiaowei/wireguard" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="wireguard-go-gxw" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/gaoxiaowei/wireguard" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -62,10 +64,11 @@
       <screen x="0" y="23" width="1630" height="1027" />
     </state>
     <state x="279" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.70.1920.1057/0.23.1630.1027@0.23.1630.1027" timestamp="1606815962178" />
-    <state x="513" y="169" width="604" height="735" key="find.popup" timestamp="1606815987517">
+    <state x="513" y="169" width="604" height="735" key="find.popup" timestamp="1606822776367">
       <screen x="0" y="23" width="1630" height="1027" />
     </state>
     <state x="513" y="169" width="604" height="735" key="find.popup/-1920.70.1920.1057/0.23.1630.1027@0.23.1630.1027" timestamp="1606815987517" />
+    <state x="513" y="169" width="604" height="735" key="find.popup/0.23.1630.1027@0.23.1630.1027" timestamp="1606822776367" />
     <state x="480" y="250" key="search.everywhere.popup" timestamp="1606815861955">
       <screen x="0" y="23" width="1630" height="1027" />
     </state>

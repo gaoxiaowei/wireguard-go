@@ -16,7 +16,7 @@ import (
 
 	"golang.org/x/sys/windows"
 
-	"github.com/gaoxiaowei/wireguard/tun/wintun"
+	"github.com/gaoxiaowei/wireguard-go/tun/wintun"
 )
 
 const (

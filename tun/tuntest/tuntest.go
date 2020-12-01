@@ -11,7 +11,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/gaoxiaowei/wireguard/tun"
+	"github.com/gaoxiaowei/wireguard-go/tun"
 )
 
 func Ping(dst, src net.IP) []byte {

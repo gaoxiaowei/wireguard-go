@@ -1,4 +1,4 @@
-module github.com/gaoxiaowei/wireguard
+module github.com/gaoxiaowei/wireguard-go
 
 go 1.13
 

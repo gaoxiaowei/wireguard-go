@@ -13,7 +13,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/gaoxiaowei/wireguard/conn"
+	"github.com/gaoxiaowei/wireguard-go/conn"
 )
 
 const (
