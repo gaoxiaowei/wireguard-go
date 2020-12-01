@@ -8,7 +8,7 @@ package device
 import (
 	"errors"
 
-	"github.com/gaoxiaowei/wireguard/conn"
+	"github.com/gaoxiaowei/wireguard-go/conn"
 )
 
 type DummyDatagram struct {

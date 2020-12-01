@@ -14,7 +14,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gaoxiaowei/wireguard/tun/tuntest"
+	"github.com/gaoxiaowei/wireguard-go/tun/tuntest"
 )
 
 func getFreePort(t *testing.T) string {
